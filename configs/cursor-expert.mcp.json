@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "dramacanva-expert": {
+      "url": "https://dramacanva.com/api/mcp?profile=expert",
+      "headers": {
+        "Authorization": "Bearer ${env:DRAMACANVA_API_KEY}"
+      }
+    }
+  }
+}
