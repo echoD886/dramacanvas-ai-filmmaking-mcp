@@ -1,4 +1,4 @@
-# AI Filmmaking MCP Server: Short Drama, Storyboard and AI Video Generation for Claude, Codex and Cursor
+# DramaCanvas: AI Filmmaking MCP Server for Short Drama, Storyboard and AI Video Generation in Claude, Codex and Cursor
 
 An AI film maker you can drive from your coding agent. Connect Claude, Codex or Cursor to the [DramaCanvas](https://dramacanva.com) MCP server and turn a script into episodes, storyboards, character looks and generated video on one infinite canvas.
 
