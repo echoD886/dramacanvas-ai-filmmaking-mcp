@@ -1,6 +1,6 @@
-# DramaCanvas MCP Cookbook: AI Short Drama and Video Production from Claude, Codex and Cursor
+# AI Filmmaking MCP Server: Short Drama, Storyboard and AI Video Generation for Claude, Codex and Cursor
 
-Connect your AI agent to the [DramaCanvas](https://dramacanva.com) MCP server and turn a script into episodes, storyboards, character looks and generated video on one infinite canvas.
+An AI film maker you can drive from your coding agent. Connect Claude, Codex or Cursor to the [DramaCanvas](https://dramacanva.com) MCP server and turn a script into episodes, storyboards, character looks and generated video on one infinite canvas.
 
 DramaCanvas accounts and API keys are created at [dramacanva.com](https://dramacanva.com). Free to start; generation uses credits. View pricing at https://dramacanva.com/pricing.
 
