@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.dramacanva/dramacanvas",
+  "title": "DramaCanvas",
+  "description": "AI filmmaking for short dramas: turn scripts into storyboards, consistent characters and AI video.",
+  "version": "1.0.0",
+  "websiteUrl": "https://dramacanva.com/mcp",
+  "repository": {
+    "url": "https://github.com/echoD886/dramacanvas-ai-filmmaking-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://dramacanva.com/brand/say-action/icon-dark-180.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://dramacanva.com/api/mcp"
+    }
+  ]
+}
